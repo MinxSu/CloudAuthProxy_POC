@@ -19,6 +19,7 @@
  - pg8000
 
 ### 前置作業
+ - 啟用 Cloud SQL Admin API
  - 設定 VPC
 
 ### 資料庫設定
