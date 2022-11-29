@@ -33,7 +33,7 @@
 ![連線機制(紅線)](./docs/CloudAuthProxy.png "SSL connetion with Cloud Auth Proxy")
 
 ### 參考資料
-[Colab](https://colab.research.google.com/github/GoogleCloudPlatform/cloud-sql-python-connector/blob/main/samples/notebooks/postgres_python_connector.ipynb#scrollTo=7Pb7xJmIWOwQ)
-[cloud-sql-python-connector](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector)
-[Connect using Cloud SQL connectors](https://cloud.google.com/sql/docs/postgres/connect-connectors#python_1)
-[Cloud SQL With Private IP](https://medium.com/google-cloud/cloud-sql-with-private-ip-only-the-good-the-bad-and-the-ugly-de4ac23ce98a)
+[Colab](https://colab.research.google.com/github/GoogleCloudPlatform/cloud-sql-python-connector/blob/main/samples/notebooks/postgres_python_connector.ipynb#scrollTo=7Pb7xJmIWOwQ) <br/>
+[cloud-sql-python-connector](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector) <br/>
+[Connect using Cloud SQL connectors](https://cloud.google.com/sql/docs/postgres/connect-connectors#python_1) <br/>
+[Cloud SQL With Private IP](https://medium.com/google-cloud/cloud-sql-with-private-ip-only-the-good-the-bad-and-the-ugly-de4ac23ce98a) <br/>
