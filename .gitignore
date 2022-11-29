@@ -3,3 +3,4 @@ share/
 lib/
 config.ini
 include/
+__pycache__/
