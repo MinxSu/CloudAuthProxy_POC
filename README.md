@@ -30,6 +30,7 @@
 ### Cloud Run 設定
 - 掛入要連線的資料庫
 - 設定vpc (同資料庫設定)
+- 使用的 Service Account 須包含 cloudsql.client 權限
 
 ![連線機制(紅線)](./docs/CloudAuthProxy.png "SSL connetion with Cloud Auth Proxy")
 
