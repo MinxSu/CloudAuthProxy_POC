@@ -3,4 +3,5 @@ share/
 lib/
 config.ini
 include/
-__pycache__/
+.DS_Store
+.idea/
